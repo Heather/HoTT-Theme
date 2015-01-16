@@ -1,6 +1,11 @@
 HoTT Theme for Chromium
 =======================
 
+ - work in progress...
+ - looks ugly ✔
+
+![](https://raw.githubusercontent.com/Heather/HoTT-Theme/0a406711abfc1ac5a23a7768487bed83333ca8ec/screenshots/ver1.jpg)
+
 ![](/screenshots/ver1.jpg?raw=true)
 
 ## License
